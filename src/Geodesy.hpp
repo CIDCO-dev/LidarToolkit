@@ -2,6 +2,8 @@
 
 #include <cmath>
 
+#include <Eigen/Dense>
+
 #define D2R(x) (x * (M_PI/180))
 #define R2D(x) (x * (180/M_PI))
 
