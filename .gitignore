@@ -39,3 +39,6 @@ nbproject/*
 *.exe
 *.out
 *.app
+
+build
+build/*
