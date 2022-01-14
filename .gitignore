@@ -1,7 +1,6 @@
 # CMake
 build
 build/*
-build*
 
 # Netbeans
 nbproject
@@ -39,6 +38,3 @@ nbproject/*
 *.exe
 *.out
 *.app
-
-build
-build/*
